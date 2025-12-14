@@ -828,20 +828,3 @@ For support, email swayamsidgor@example.com or open an issue in the repository.
 **Last Updated:** December 2025
 
 ---
-
-## 🎯 Quick Start Checklist
-
-- [ ] Install Node.js and MongoDB
-- [ ] Clone repository
-- [ ] Run `npm install` in backend
-- [ ] Run `npm install` in frontend
-- [ ] Create `.env` files
-- [ ] Run `npm run seed` in backend
-- [ ] Start backend: `npm run dev`
-- [ ] Start frontend: `npm run dev`
-- [ ] Register a user
-- [ ] Test surge pricing
-- [ ] Make a booking
-- [ ] Download ticket
-
-**🎉 Happy Coding!**
