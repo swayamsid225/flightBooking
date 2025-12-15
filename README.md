@@ -772,7 +772,7 @@ This project is licensed under the MIT License - see the (LICENSE) file for deta
 
 ## 👥 Authors
 
-- **Swayam Sidgor** - *Flight Booking* - [YourGitHub](https://github.com/swayamsid225)
+- **Swayam Sidgor** - *Flight Booking* - [swayamsid225](https://github.com/swayamsid225)
 
 ---
 
