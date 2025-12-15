@@ -630,10 +630,6 @@ curl -X POST http://localhost:5000/api/users/register \
 ![Search Results](docs/screenshots/results.png)
 *Flight cards with pricing and times*
 
-### Surge Pricing Active
-![Surge Pricing](docs/screenshots/surge.png)
-*Red badge indicates surge pricing with countdown*
-
 ### Booking Confirmation
 ![Booking](docs/screenshots/booking.png)
 *Payment summary with wallet balance*
