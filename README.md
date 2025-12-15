@@ -788,7 +788,7 @@ This project is licensed under the MIT License - see the (LICENSE) file for deta
 
 ## 📞 Support
 
-For support, email swayamsidgor@example.com or open an issue in the repository.
+For support, email swayamsidgor@gmail.com or open an issue in the repository.
 
 ---
 
